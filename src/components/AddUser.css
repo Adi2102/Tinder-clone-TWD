@@ -1,0 +1,65 @@
+.name {
+  margin-left: 39%;
+}
+
+.name > label {
+  margin-top: 14px;
+  padding-right: 35px;
+  margin-left: -120px;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.name > input {
+  border: none;
+  border-radius: 5px;
+  outline: 0;
+  width: 50%;
+  background-color: whitesmoke;
+  padding: 10px;
+  margin: 100px auto 0px auto;
+  box-shadow: 0px 4px 8px 0px rgb(0 0 0);
+}
+
+.photoUrl {
+  margin-left: 38%;
+  margin-top: 10px;
+}
+
+.photoUrl > label {
+  padding-right: 20px;
+  margin: 14px;
+  margin-left: -103px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.photoUrl > input {
+  border: none;
+  border-radius: 5px;
+  width: 50%;
+  outline: 0;
+  background-color: whitesmoke;
+  padding: 10px;
+  margin: 10px -3px;
+  box-shadow: 0px 4px 8px 0px rgb(0 0 0);
+}
+
+.loginBtn {
+  border: none;
+  border-radius: 5px;
+  padding: 15px 50px;
+  margin-left: 30%;
+  margin-top: 52px;
+  background-color: crimson;
+  color: white;
+  cursor: pointer;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.loginBtn:hover {
+  background-color: black;
+  color: whitesmoke;
+}
